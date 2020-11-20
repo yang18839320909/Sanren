@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <div id="nav">
+      <router-link>老杨分支</router-link>
       <router-link to="/">张伟珂</router-link> |
       <router-link to="/about">刘现宝</router-link>
     </div>
